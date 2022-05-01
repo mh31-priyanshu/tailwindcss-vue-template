@@ -1,6 +1,6 @@
 # tailwindcss-vue-template
 
-This template should help get you started developing with Vue 3 in Vite.
+This template should help get you started developing with Vue 3 in Vite and TailwindCSS as a PostCss framework.
 
 ## Recommended IDE Setup
 
@@ -9,6 +9,7 @@ This template should help get you started developing with Vue 3 in Vite.
 ## Customize configuration
 
 See [Vite Configuration Reference](https://vitejs.dev/config/).
+See [Tailwind Configuration Reference](https://tailwindcss.com/docs/installation/using-postcss).
 
 ## Project Setup
 
