@@ -8,7 +8,7 @@ This template should help get you started developing with Vue 3 in Vite and Tail
 
 ## Customize configuration
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+See [Vite Configuration Reference](https://vitejs.dev/config/).<br />
 See [Tailwind Configuration Reference](https://tailwindcss.com/docs/installation/using-postcss).
 
 ## Project Setup
